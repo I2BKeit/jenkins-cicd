@@ -1,3 +1,3 @@
 
-FROM apache:latest
-ADD . /var/www/html/index.html
+FROM hshar/webapp
+ADD . /var/www/html/
